@@ -176,7 +176,7 @@ order by book_issued desc;
 
 
 /*
-Task 19: Stored Procedure Objective: 
+Task 18: Stored Procedure Objective: 
 
 Create a stored procedure to manage the status of books in a library system. 
 
@@ -255,5 +255,6 @@ SELECT * FROM books
 WHERE isbn = '978-0-375-41398-8'
 
 -- 
+
 
 
